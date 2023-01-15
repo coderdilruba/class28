@@ -1,0 +1,141 @@
+@media (max-width:564px){
+    .service-section .card .card-c {
+        margin: 12px -10px;
+    }
+}
+@media (max-width:575px){
+    .about-me img {
+        width: 100%;
+        max-width: 100%;
+        margin-top: 104px;
+    }
+    .card{
+        margin-left: 70px;
+    }
+    .about-us .card2 {
+        right: 3%;
+        top: -5%;
+    }
+    .service-section .card {
+        width: 100%;
+        margin-left: 0px;
+        margin-bottom: 10px;
+    }
+    .service-section .card .card-c {
+        width: 50px;
+        height: 50px;
+        margin: 9px 25px;
+    }
+   .service-section .card-c h3 {
+	line-height: 50px;
+}
+.team-section .card {
+	margin-left: 2px;
+	margin-bottom: 58px;
+}
+.contact-section .card {
+	width: 100%;
+	margin: auto 9px;
+}
+
+.contact-section .card3 {
+	left: 90px;
+}
+.logo img {
+	width: 100px;
+}
+.team-section {
+	margin: -17px 0;
+}
+}
+@media (min-width:992px){
+    .about-us .card2 {
+        top: 20%!important;
+    }
+    .about-me img {
+        margin-left: 0px!important;
+    }
+}
+@media (min-width:1200px){
+    .about-us .card2 {
+        top: 15% !important;
+    }
+    .contact-section .card3 {
+        left: 240px;
+    }
+
+}
+@media (min-width:768px){
+    .navbar-expand-sm .navbar-nav .nav-link {
+        font-size: 13px;
+    }
+    .about-me img {
+        margin-left: 120px;
+        margin-top: 68px;
+    }
+    .about-us .card {
+        margin-left: 80px;
+    }
+    .about-us .card2 {
+        right: 3%;
+        top: -6%;
+    }
+    .service-section .card .card-c {
+        width: 50px;
+        height: 50px;
+        margin: 8px -3px;
+    }
+    .service-section .card-c h3 {
+        line-height: 50px;
+    }
+    .team-section .card{
+        margin-bottom: 70px;
+    }
+}
+@media (min-width:576px){
+    .logo .pp {
+        width: 83px;
+        margin-left: -23px;
+    }
+    .navbar-expand-sm .navbar-nav .nav-link {
+        font-size: 13px;
+    }
+    .about-me img{
+        margin-top: 53px;
+    }
+    .about-us .card {
+        margin-left: 50px;
+    }
+    .about-us .card2 {
+        top: -10%;
+        left: 10px;
+    }
+    .service-section .card .card-c {
+        width: 50px;
+        height: 50px;
+        margin: 8px 47px;
+    }
+    .service-section .card-c h3 {
+        line-height: 50px;
+    }
+    .team-section .card{
+        margin-bottom: 68px;
+    }
+    .contact-section .card3 {
+        left: 242px;
+    }
+    .card {
+        margin-bottom: 16px;
+    }
+}
+@media (min-width:1400px){
+    .about-us .card2 {
+        top: 80px !important;
+    }
+    .navbar-expand-sm .navbar-nav .nav-link {
+        font-size: 20px;
+    }
+    .service-section .card .card-c {
+        margin: 8px 18px;
+    }
+}
